@@ -1,0 +1,14 @@
+$transaction = array(
+
+  array('trans_id' => '325226669',
+        'trans_user_id' => '1194398',
+        'trans_plaid_trans_id' => 'Z1NVw9NZ7qUo1NgmdZj7uKq96zVqEJIP3RB0Pn',
+        'trans_plaid_categories' => 'Service,Telecommunication Services',
+        'trans_plaid_amount' => '23.4',
+        'trans_plaid_category_id' => '18063000',
+        'trans_plaid_date' => '2022-08-27',
+        'trans_plaid_name' => 'T-Mobile'),
+
+  array('trans_id' => '325226670','trans_user_id' => '1194398','trans_plaid_trans_id' => 'x6zeYRzjvpf134O05wgZcMA3mnKAd8upkM0epw','trans_plaid_categories' => 'Shops,Hardware Store','trans_plaid_amount' => '20.61','trans_plaid_category_id' => '19030000','trans_plaid_date' => '2022-08-27','trans_plaid_name' => 'Home Depot'),
+
+  );
