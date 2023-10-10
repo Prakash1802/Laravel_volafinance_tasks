@@ -21,7 +21,7 @@ class TransactionController extends Controller
         $closingBalances = [];
         $currentBalance = $initialBalance;
 
-        $closingBalances = [];
+      
 
         foreach($dailyTransactions as $datewise=>$amount){
 
